@@ -43,4 +43,24 @@ The objective of this project is to analyze the Superstore sales dataset using P
 ## Conclusion
 
 This analysis provides valuable insights into sales performance and profitability. The findings can help businesses improve decision-making, optimize inventory, and increase overall profit.
-s
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## Key Business Insights
+
+- Technology category generated the highest sales.
+- The West region recorded the highest overall sales.
+- Sales fluctuated over time with noticeable monthly trends.
+- A small number of products contributed significantly to total sales.
+
+---
+
+## Business Recommendations
+
+- Increase inventory for high-performing Technology products.
+- Focus marketing campaigns on high-performing regions.
+- Develop targeted strategies to improve sales in lower-performing regions.
+- Monitor top-selling products to maintain consistent revenue growth.
